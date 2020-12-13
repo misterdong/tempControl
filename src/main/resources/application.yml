@@ -1,0 +1,10 @@
+
+spring:
+  mqtt:
+    username: admin
+    password: public
+    host-url: tcp://10.12.3.54:1883
+    client-id: test
+    default-topic: test
+    timeout: 100
+    keepalive: 100
